@@ -2,10 +2,10 @@
 
 ## Speaking engagements
 
-PyCon LatAm
+- PyCon LatAm
 
-React Native EU
+- React Native EU
 
-Women Who Code Python
+- Women Who Code Python
 
-React India
+- React India
