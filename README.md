@@ -1,11 +1,13 @@
 # Atri Labs at conferences
 
-## Speaking engagements
+## August 2022
 
-PyCon LatAm
+- PyCon LatAm
 
-React Native EU
+## September 2022
 
-Women Who Code Python
+- React Native EU
 
-React India
+- Women Who Code Python
+
+- React India
