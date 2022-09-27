@@ -2,9 +2,11 @@
 
 ## Topic: Reducing bugs in a React codebase
 
-Presenters: Darshita Chaturvedi (Co-Founder & CEO), Shyam Swaroop (Co-Founder & CTO)
-Presentation date: September 24, 2022
-Location: Goa, India
+- Presenters: Darshita Chaturvedi (Co-Founder & CEO), Shyam Swaroop (Co-Founder & CTO)
+
+- Presentation date: September 24, 2022
+
+- Location: Goa, India
 
 ## Materials
 
