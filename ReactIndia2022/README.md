@@ -8,7 +8,7 @@
 
 - Location: Goa, India
 
-## Materials
+### Materials
 
-1. [Slide deck](ReactIndia2022/React India 2022.pdf)
+1. ![Slide deck](ReactIndia2022/React India 2022.pdf)
 2. [Demo app referenced in the talk](https://codesandbox.io/s/react-anti-patterns-43w3sy?file=/src/pages/Incorrect.tsx)
