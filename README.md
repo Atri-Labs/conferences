@@ -6,8 +6,8 @@
 
 ## September 2022
 
-- React Native EU
+- [React Native EU](React_Native_EU_2022/README.md)
 
 - Women Who Code Python
 
-- React India
+- [React India](ReactIndia2022/README.md)
