@@ -14,5 +14,5 @@
 
 ### Materials
 
-1. [Slide deck](Slides_ReactNativeEU.pdf.pdf)
+1. [Slide deck](Slides_ReactNativeEU.pdf)
 2. [Demo app referenced in the talk](https://codesandbox.io/s/react-anti-patterns-43w3sy?file=/src/pages/Incorrect.tsx)
