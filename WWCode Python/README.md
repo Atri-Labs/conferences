@@ -14,6 +14,7 @@
 
 ### Materials
 
-1. ![Demo app](demo.gif)
+![Demo app](demo.gif)
+
+1. [Slide deck](Slides_WWCodePython.pdf)
 2. [Code for the demo app](https://github.com/Atri-Apps/cv_workbench)
-3. [Slide deck](Slides_WWCodePython.pdf)
