@@ -1,4 +1,4 @@
-# React Native EU 2022
+# Women Who Code Python
 
 ## Topic: Creating a Testing Workbench for Computer Vision Projects using Python
 
