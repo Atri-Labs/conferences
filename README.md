@@ -8,6 +8,6 @@
 
 - [React Native EU](React_Native_EU_2022)
 
-- Women Who Code Python
+- [Women Who Code Python](WWCodePython)
 
 - [React India](ReactIndia2022)
