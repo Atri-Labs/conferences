@@ -1,6 +1,6 @@
 # Atri Labs at conferences
 
-At Atri Labs, we regularly speak at international conferences and meetups to share our experiences of building ![Atri framework](https://github.com/Atri-Labs/atrilabs-engine). 
+At Atri Labs, we regularly speak at international conferences and meetups to share our experiences of building [Atri framework](https://github.com/Atri-Labs/atrilabs-engine). 
 
 Below is a list of those conferences in chronological order.
 
