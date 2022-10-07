@@ -2,7 +2,7 @@
 
 ## Topic: Creating a Testing Workbench for Computer Vision Projects using Python
 
-- Presenters: Darshita Chaturvedi (Co-Founder & CEO)
+- Presenters: Darshita Chaturvedi (Co-Founder & CEO of Atri Labs; Maintainer of [Atri framework](https://github.com/Atri-Labs/atrilabs-engine))
 
 - Presentation date: September 15, 2022
 

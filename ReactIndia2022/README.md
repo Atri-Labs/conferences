@@ -2,7 +2,7 @@
 
 ## Topic: Reducing bugs in a React codebase
 
-- Presenters: Darshita Chaturvedi (Co-Founder & CEO), Shyam Swaroop (Co-Founder & CTO)
+- Presenters: Darshita Chaturvedi (Co-Founder & CEO of Atri Labs; Maintainer of [Atri framework](https://github.com/Atri-Labs/atrilabs-engine)), Shyam Swaroop (Co-Founder & CTO of Atri Labs; Creator of [Atri framework](https://github.com/Atri-Labs/atrilabs-engine))
 
 - Presentation date: September 24, 2022
 
