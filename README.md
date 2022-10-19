@@ -16,6 +16,8 @@ Below is a list of those conferences in chronological order. You can visit the R
 
 - [React India](ReactIndia2022)
 
-## October 2022 (upcoming)
+## October 2022 
 
-- React Advanced London
+- [Women Who Code Frontend](WWCodePython)
+
+- React Advanced London (upcoming)
