@@ -9,7 +9,7 @@
 ### Resources
 
 1. [Slide deck](Slides_SS.pdf)
-2. [Full-stack framework referenced in the talk](https://github.com/Atri-Labs/atrilabs-engine))
+2. [Full-stack framework referenced in the talk](https://github.com/Atri-Labs/atrilabs-engine)
 
 ## Talk 2: Killing bugs with kindness in a React codebase
 
