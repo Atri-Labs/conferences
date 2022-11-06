@@ -8,7 +8,7 @@
 
 ### Talk recording
 
-https://portal.gitnation.org/contents/lessons-learnt-while-creating-a-new-framework-on-top-of-react
+<a href="https://portal.gitnation.org/contents/lessons-learnt-while-creating-a-new-framework-on-top-of-react" target="_blank"><img src="react_adv_ss.png" width="400"></a>
 
 ### Resources
 
@@ -23,7 +23,8 @@ https://portal.gitnation.org/contents/lessons-learnt-while-creating-a-new-framew
 
 ### Talk recording
 
-https://portal.gitnation.org/contents/killing-bugs-with-kindness
+<a href="https://portal.gitnation.org/contents/killing-bugs-with-kindness" target="_blank"><img src="react_adv_dc.png" width="400"></a>
+
 
 ### Resources
 
