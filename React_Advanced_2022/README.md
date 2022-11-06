@@ -6,6 +6,10 @@
 
 - Presentation date: October 24, 2022
 
+### Talk recording
+
+https://portal.gitnation.org/contents/lessons-learnt-while-creating-a-new-framework-on-top-of-react
+
 ### Resources
 
 1. [Slide deck](Slides_SS.pdf)
@@ -16,6 +20,10 @@
 - Presenters: Darshita Chaturvedi (Co-Founder & CEO of Atri Labs; Maintainer of [Atri framework](https://github.com/Atri-Labs/atrilabs-engine))
 
 - Presentation date: October 24, 2022
+
+### Talk recording
+
+https://portal.gitnation.org/contents/killing-bugs-with-kindness
 
 ### Resources
 
