@@ -4,6 +4,8 @@ At Atri Labs, we regularly speak at international conferences and local meetups 
 
 Below is a list of those conferences in chronological order. You can visit the README of each conference to learn about our talk, view presentation materials and watch the talk recording (if available). 
 
+📹 Our recorded talks can be found in this [playlist](https://youtube.com/playlist?list=PLTQwOMNg4n8BYxAvZlFlVsEstCeS4KM1q). 
+
 ## August 2022
 
 - PyCon LatAm
