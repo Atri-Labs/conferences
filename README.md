@@ -20,4 +20,4 @@ Below is a list of those conferences in chronological order. You can visit the R
 
 - [Women Who Code Frontend](WWCodePython)
 
-- React Advanced London (upcoming)
+- [React Advanced London](React_Advanced_2022)
