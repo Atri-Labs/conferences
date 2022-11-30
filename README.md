@@ -19,3 +19,11 @@ Below is a list of those conferences in chronological order. You can visit the R
 | Oct 24, 2022 | React Advanced London | [Video1](https://portal.gitnation.org/contents/lessons-learnt-while-creating-a-new-framework-on-top-of-react) \| [Video 2](https://portal.gitnation.org/contents/killing-bugs-with-kindness) | [Details](React_Advanced_2022) | 
 | Nov 17, 2022 | NHS Conference, London | *To be released* | [Demo app](https://github.com/Atri-Apps/nhs_demo) \| [NHS Conference](NHSConference)| 
 | Nov 30, 2022 | ML Con, Berlin | *To be released* | [Demo app](https://github.com/Atri-Apps/cv_workbench) \| [Details](MLCon_Berlin) 
+
+## Resources
+
+🌈 Check out websites and apps built and deployed using Atri framework at [Atri-Apps](https://github.com/Atri-Apps)
+
+🧭 Follow Atri Labs on [LinkedIn](https://www.linkedin.com/company/atri-labs)
+
+⭐️ Star [Atri framework](https://github.com/Atri-Labs/atrilabs-engine) if you find it helpful! 😎
