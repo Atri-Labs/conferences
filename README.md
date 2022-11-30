@@ -1,10 +1,13 @@
 # Atri Labs at conferences
 
-At Atri Labs, we regularly speak at international conferences and local meetups to share our experiences of building [Atri framework](https://github.com/Atri-Labs/atrilabs-engine). The topics we cover include deep dive into React and the surrounding web development ecosystem, tutorials on how to use Atri framework, etc.
+At Atri Labs, we regularly speak at international conferences and local meetups to share our experiences of building [Atri framework](https://github.com/Atri-Labs/atrilabs-engine). The topics we cover include but are not limited to 
+- deep dive into React and the surrounding web development ecosystem for JavaScript and Python developers, 
+- how to use Atri framework to solve a specific business problem
+- experiences of building and growing an open-source project and a company around it
 
-Below is a list of those conferences in chronological order. You can visit the README of each conference to learn about our talk, view presentation materials and watch the talk recording (if available). 
+Below is a list of those conferences in chronological order. You can visit the README of each conference to learn more about our talk, view presentation materials and watch the talk recording (if available). 
 
-📹 Our recorded talks can be found in this [playlist](https://youtube.com/playlist?list=PLTQwOMNg4n8BYxAvZlFlVsEstCeS4KM1q). 
+📹 Our recorded talks can be found in this [playlist](https://youtube.com/playlist?list=PLTQwOMNg4n8BYxAvZlFlVsEstCeS4KM1q) on our YouTube channel. 
 
 | Date | Conference | Resources | Details | 
 | :---: | :---:     | :---: | :---:|
