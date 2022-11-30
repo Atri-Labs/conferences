@@ -14,5 +14,5 @@
 
 ![Demo app](demo.gif)
 
-1. [Slide deck](Slides_WWCodePython.pdf)
+1. [Slide deck](Slides_MLCon_Berlin.pdf)
 2. [Code for the demo app](https://github.com/Atri-Apps/cv_workbench)
