@@ -6,6 +6,12 @@ Below is a list of those conferences in chronological order. You can visit the R
 
 📹 Our recorded talks can be found in this [playlist](https://youtube.com/playlist?list=PLTQwOMNg4n8BYxAvZlFlVsEstCeS4KM1q). 
 
+| Date | Conference | Resources | Details | 
+| :---: | :---:     | :---: | :---:|
+| Aug 31, 2022 | PyCon LatAm | 
+| Sep 1, 2022| React Native EU | [![Video](https://img.youtube.com/vi/NDW-BLnua_o/0.jpg)](https://www.youtube.com/watch?v=NDW-BLnua_o) | [Details](React_Native_EU_2022) |
+| Sep 15, 2022 | Women Who Code Python | [![Watch the video](https://img.youtube.com/vi/IlinrQttun0/0.jpg)](https://www.youtube.com/watch?v=IlinrQttun0) | ![Demo app](WWCodePython/demo.gif)|
+
 ## August 2022
 
 - PyCon LatAm
