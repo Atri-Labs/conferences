@@ -6,8 +6,6 @@
 
 - Presentation date: September 1, 2022
 
-- Location: Remote
-
 ### Talk recording
 
 [![Watch the video](https://img.youtube.com/vi/NDW-BLnua_o/0.jpg)](https://www.youtube.com/watch?v=NDW-BLnua_o)
