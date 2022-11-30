@@ -1,4 +1,4 @@
-# NHS-R Conference
+# NHS Conference
 
 ## Topic: Shinier alternative to R-Shiny - Creating Progressive Web Apps using Atri
 
